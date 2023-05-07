@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Universal</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Universal</description>
+    <title>Categories on Aferir</title>
+    <link>https://aferir.com/categories/</link>
+    <description>Recent content in Categories on Aferir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-PT</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://aferir.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>lorem</title>
-      <link>/categories/lorem/</link>
+      <link>https://aferir.com/categories/lorem/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>/categories/lorem/</guid>
+      <guid>https://aferir.com/categories/lorem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
-      <link>/categories/programming/</link>
+      <link>https://aferir.com/categories/programming/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>/categories/programming/</guid>
+      <guid>https://aferir.com/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pseudo</title>
-      <link>/categories/pseudo/</link>
+      <link>https://aferir.com/categories/pseudo/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>/categories/pseudo/</guid>
+      <guid>https://aferir.com/categories/pseudo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>starting</title>
-      <link>/categories/starting/</link>
+      <link>https://aferir.com/categories/starting/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>/categories/starting/</guid>
+      <guid>https://aferir.com/categories/starting/</guid>
       <description></description>
     </item>
     

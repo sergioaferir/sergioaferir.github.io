@@ -2,80 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/2023/04/30/30deabril/</loc>
+    <loc>https://aferir.com/blog/2023/04/30/30deabril/</loc>
     <lastmod>2023-04-30T17:37:23+01:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>https://aferir.com/</loc>
     <lastmod>2023-04-30T17:37:23+01:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://aferir.com/blog/</loc>
     <lastmod>2023-04-30T17:37:23+01:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>https://aferir.com/authors/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://aferir.com/categories/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/blog/2021/08/01/categories-post/</loc>
+    <loc>https://aferir.com/blog/2021/08/01/categories-post/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/tags/golang/</loc>
+    <loc>https://aferir.com/tags/golang/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/tags/hugo/</loc>
+    <loc>https://aferir.com/tags/hugo/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/authors/john-doe/</loc>
+    <loc>https://aferir.com/authors/john-doe/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/categories/lorem/</loc>
+    <loc>https://aferir.com/categories/lorem/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/tags/programming/</loc>
+    <loc>https://aferir.com/tags/programming/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/categories/programming/</loc>
+    <loc>https://aferir.com/categories/programming/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/categories/pseudo/</loc>
+    <loc>https://aferir.com/categories/pseudo/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://aferir.com/tags/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/tags/theme/</loc>
+    <loc>https://aferir.com/tags/theme/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/authors/jane-doe/</loc>
+    <loc>https://aferir.com/authors/jane-doe/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>/blog/2015/10/02/linked-post/</loc>
+    <loc>https://aferir.com/blog/2015/10/02/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>/tags/go/</loc>
+    <loc>https://aferir.com/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>/blog/2015/09/17/go-is-for-lovers/</loc>
+    <loc>https://aferir.com/blog/2015/09/17/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <loc>https://aferir.com/blog/2015/08/03/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>/blog/2015/06/24/creating-a-new-theme/</loc>
+    <loc>https://aferir.com/blog/2015/06/24/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>/categories/starting/</loc>
+    <loc>https://aferir.com/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>/blog/1/01/01/teste/</loc>
+    <loc>https://aferir.com/blog/1/01/01/teste/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://aferir.com/contact/</loc>
   </url><url>
-    <loc>/faq/</loc>
+    <loc>https://aferir.com/faq/</loc>
   </url><url>
-    <loc>/tags/ipsum/</loc>
+    <loc>https://aferir.com/tags/ipsum/</loc>
   </url><url>
-    <loc>/blog/1/01/01/migrate-from-jekyll/</loc>
+    <loc>https://aferir.com/blog/1/01/01/migrate-from-jekyll/</loc>
   </url>
 </urlset>
