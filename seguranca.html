@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Segurança — Aferir</title>
+  <meta name="description" content="Como a Aferir desenvolve software seguro: desenvolvimento seguro, análise contínua de código, dependências vigiadas, encriptação e princípio do menor privilégio.">
+  <link rel="icon" type="image/png" href="img/favicon-64.png">
+  <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+  <meta property="og:title" content="Segurança — Aferir">
+  <meta property="og:description" content="Como a Aferir desenvolve software seguro, do código à operação.">
+  <meta property="og:url" content="https://aferir.com/seguranca.html">
+  <meta property="og:type" content="website">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site-header" id="topo">
+  <nav class="nav container">
+    <a class="brand" href="/" aria-label="Aferir — página inicial">
+      <svg class="brand-symbol" viewBox="0 0 430 420" fill="none" aria-hidden="true">
+        <path d="M30 220 H102 L196 40 L252 380 L308 212 H400" stroke="currentColor" stroke-width="54" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="156" cy="280" r="29" fill="currentColor"/>
+      </svg>
+      <span class="brand-word">Aferir</span>
+    </a>
+    <button class="nav-toggle" aria-label="Abrir menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <ul class="nav-links">
+      <li><a href="/#produtos">Produtos</a></li>
+      <li><a href="/#servicos">Serviços</a></li>
+      <li><a href="/#abordagem">Como trabalhamos</a></li>
+      <li><a href="/#contacto" class="nav-cta">Contacto</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+
+  <!-- HERO -->
+  <section class="hero hero--page">
+    <svg class="hero-watermark" viewBox="0 0 430 420" fill="none" aria-hidden="true">
+      <path d="M30 220 H102 L196 40 L252 380 L308 212 H400" stroke="currentColor" stroke-width="54" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="156" cy="280" r="29" fill="currentColor"/>
+    </svg>
+    <div class="container hero-inner">
+      <p class="hero-kicker">Segurança</p>
+      <h1>Segurança por defeito,<br>do código à <em>operação</em>.</h1>
+      <p class="hero-lead">
+        O nosso software gere o stock, os movimentos e os dados da sua empresa.
+        Levamos essa responsabilidade a sério: a segurança não é uma camada
+        adicionada no fim — está no processo de desenvolvimento desde a primeira linha.
+      </p>
+    </div>
+  </section>
+
+  <!-- PRÁTICAS -->
+  <section class="section" id="praticas">
+    <div class="container">
+      <p class="section-kicker">Como desenvolvemos</p>
+      <h2>Práticas que aplicamos em tudo o que construímos</h2>
+      <p class="section-lead">Um resumo das práticas de cibersegurança e desenvolvimento seguro que aplicamos aos nossos produtos e projetos à medida.</p>
+
+      <div class="cards">
+        <article class="card reveal">
+          <div class="card-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><path d="M12 3l7 3v5c0 4.4-2.9 7.6-7 9-4.1-1.4-7-4.6-7-9V6l7-3z"/><path d="M9 12l2 2 4-4"/></svg>
+          </div>
+          <h3>Desenvolvimento seguro</h3>
+          <p>Arquitetura em camadas, revisão de código e uma bateria de testes automatizados que inclui cenários de segurança. Nada chega a produção sem passar pelo pipeline de integração contínua.</p>
+        </article>
+
+        <article class="card reveal">
+          <div class="card-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><path d="M8 9l-3 3 3 3"/><path d="M16 9l3 3-3 3"/><path d="M13 6l-2 12"/></svg>
+          </div>
+          <h3>Análise contínua de código</h3>
+          <p>Análise estática de segurança (SAST) executada a cada alteração ao código e em verificações agendadas, com a correção integrada no ciclo normal de desenvolvimento.</p>
+        </article>
+
+        <article class="card reveal">
+          <div class="card-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><path d="M21 12a9 9 0 1 1-2.6-6.3"/><path d="M21 3v6h-6"/></svg>
+          </div>
+          <h3>Dependências vigiadas</h3>
+          <p>Verificação automática de vulnerabilidades conhecidas em todas as bibliotecas que usamos, incluindo as indiretas. Uma dependência vulnerável bloqueia a build até ser resolvida.</p>
+        </article>
+
+        <article class="card reveal">
+          <div class="card-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><rect x="4" y="10" width="16" height="10" rx="2"/><path d="M8 10V7a4 4 0 0 1 8 0v3"/></svg>
+          </div>
+          <h3>Encriptação em trânsito</h3>
+          <p>Todas as comunicações entre as aplicações e os servidores são encriptadas (TLS/HTTPS), com políticas de segurança HTTP reforçadas e certificados geridos e monitorizados.</p>
+        </article>
+
+        <article class="card reveal">
+          <div class="card-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><circle cx="9" cy="8" r="3.5"/><path d="M3.5 20a5.5 5.5 0 0 1 11 0"/><path d="M15.5 11.5l2 2 4-4"/></svg>
+          </div>
+          <h3>Menor privilégio</h3>
+          <p>Cada utilizador acede apenas aos módulos que lhe foram atribuídos, com permissões verificadas no servidor a cada pedido. As contas são criadas e geridas por administradores.</p>
+        </article>
+
+        <article class="card reveal">
+          <div class="card-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><circle cx="8" cy="14" r="4"/><path d="M11 11l8-8"/><path d="M16 6l3 3"/><path d="M13.5 8.5l2 2"/></svg>
+          </div>
+          <h3>Credenciais protegidas</h3>
+          <p>Palavras-passe guardadas com hashing forte e salt individual, segredos fora do código-fonte e proteção em múltiplas camadas contra ataques de força bruta.</p>
+        </article>
+
+        <article class="card reveal">
+          <div class="card-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><path d="M9 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-3"/><rect x="9" y="1.5" width="6" height="3.5" rx="1"/><path d="M8 11h8"/><path d="M8 15h5"/></svg>
+          </div>
+          <h3>Auditoria e rastreabilidade</h3>
+          <p>Registo estruturado da atividade das aplicações e trilho de auditoria das operações relevantes: quem fez o quê, quando, e com que resultado.</p>
+        </article>
+
+        <article class="card reveal">
+          <div class="card-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><path d="M2 12h4l3-7 4 14 3-7h6"/></svg>
+          </div>
+          <h3>Resiliência operacional</h3>
+          <p>Monitorização de saúde dos serviços, degradação controlada quando um sistema externo falha e proteções contra duplicação de operações em redes instáveis.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- NOTA / CTA -->
+  <section class="cta" id="documentacao">
+    <svg class="cta-watermark" viewBox="0 0 430 420" fill="none" aria-hidden="true">
+      <path d="M30 220 H102 L196 40 L252 380 L308 212 H400" stroke="currentColor" stroke-width="54" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="156" cy="280" r="29" fill="currentColor"/>
+    </svg>
+    <div class="container cta-inner">
+      <h2>A avaliar fornecedores?</h2>
+      <p>Disponibilizamos aos nossos clientes documentação detalhada das práticas de cibersegurança e desenvolvimento seguro, mediante pedido e sob confidencialidade.</p>
+      <a class="btn btn-light btn-lg" href="mailto:aferir@aferir.com?subject=Pedido%20de%20documenta%C3%A7%C3%A3o%20de%20seguran%C3%A7a">Pedir documentação</a>
+      <p class="cta-note">Porto · Portugal</p>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div>
+      <span class="brand footer-brand">
+        <svg class="brand-symbol" viewBox="0 0 430 420" fill="none" aria-hidden="true">
+          <path d="M30 220 H102 L196 40 L252 380 L308 212 H400" stroke="currentColor" stroke-width="54" stroke-linecap="round" stroke-linejoin="round"/>
+          <circle cx="156" cy="280" r="29" fill="currentColor"/>
+        </svg>
+        <span class="brand-word">Aferir</span>
+      </span>
+      <p>Software de gestão de armazéns e operações para pequenas e médias empresas.</p>
+    </div>
+    <ul class="footer-links">
+      <li><a href="/#produtos">Produtos</a></li>
+      <li><a href="/#servicos">Serviços</a></li>
+      <li><a href="seguranca.html">Segurança</a></li>
+      <li><a href="mailto:aferir@aferir.com">aferir@aferir.com</a></li>
+    </ul>
+  </div>
+  <div class="container footer-legal">
+    <p>© <span id="ano">2026</span> Aferir — Tecnologias de Informação · Porto, Portugal</p>
+  </div>
+</footer>
+
+<script src="assets/main.js" defer></script>
+</body>
+</html>

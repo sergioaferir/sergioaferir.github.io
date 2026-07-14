@@ -615,7 +615,7 @@ h1, h2, h3 { font-family: var(--font-display); line-height: 1.12; }
 
 .footer-inner p { font-size: 0.9rem; max-width: 36ch; margin-top: 0.5rem; }
 
-.footer-links { list-style: none; display: flex; gap: 1.6rem; }
+.footer-links { list-style: none; display: flex; flex-wrap: wrap; gap: 0.8rem 1.6rem; }
 
 .footer-links a {
   color: var(--ink-inverse-soft);
@@ -632,6 +632,21 @@ h1, h2, h3 { font-family: var(--font-display); line-height: 1.12; }
   font-size: 0.75rem;
   letter-spacing: 0.04em;
 }
+
+/* ===== Página Segurança ===== */
+.hero--page .hero-inner {
+  padding: clamp(3.5rem, 8vw, 5.5rem) 0 clamp(3rem, 7vw, 4.5rem);
+}
+
+.hero--page h1 { font-size: clamp(2rem, 4.6vw, 3.2rem); }
+
+.checks a {
+  color: var(--aferir-blue);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.checks a:hover { text-decoration: underline; }
 
 /* ===== Reveal on scroll ===== */
 .reveal {
